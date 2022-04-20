@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Welcome to FOOD APP!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## First
+### `npm i`
+To instal all package
 
 ## Available Scripts
 
