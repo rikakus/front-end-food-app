@@ -6,6 +6,34 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `npm i`
 To instal all package
 
+## Screenshot
+
+### Landing Page
+
+![Landing Page](https://drive.google.com/uc?id=1NI4qVhgQ5zTX8DfZk5NqD6weeQbvbAfE)
+
+### Login
+
+![Landing Page](https://drive.google.com/uc?id=1RJAwudljTM4Fn_kmRwvlAdmY8oYd1tpl)
+
+### Register
+
+![Landing Page](https://drive.google.com/uc?id=1hPP3dCxZFCakIBnfiGIgWhPtz0F-as3g)
+
+
+### Recipe
+
+![Landing Page](https://drive.google.com/uc?id=1UamgMFxFoNcZ4vf7MMtYCxXa7z7T_ftX)
+
+### Profile
+
+![Landing Page](https://drive.google.com/uc?id=1mNMQLq0lMms3hG8WLE4cr7O9JBwmyQq2)
+
+### Search
+
+![Landing Page](https://drive.google.com/uc?id=1p6UCpu7u1-T7-bM3fEtUreK9X09v3fJi)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
