@@ -10,28 +10,28 @@ To instal all package
 
 ### Landing Page
 
-![Landing Page](https://drive.google.com/uc?id=1NI4qVhgQ5zTX8DfZk5NqD6weeQbvbAfE)
+![Landing Page](/public/images/landing-page.webp)
 
 ### Login
 
-![Landing Page](https://drive.google.com/uc?id=1RJAwudljTM4Fn_kmRwvlAdmY8oYd1tpl)
+![Login](/public/images/login.png)
 
 ### Register
 
-![Landing Page](https://drive.google.com/uc?id=1hPP3dCxZFCakIBnfiGIgWhPtz0F-as3g)
+![Register](/public/images/register.png)
 
 
 ### Recipe
 
-![Landing Page](https://drive.google.com/uc?id=1UamgMFxFoNcZ4vf7MMtYCxXa7z7T_ftX)
+![Recipe](/public/images/recipe.png)
 
 ### Profile
 
-![Landing Page](https://drive.google.com/uc?id=1mNMQLq0lMms3hG8WLE4cr7O9JBwmyQq2)
+![Profile](/public/images/profile.png)
 
 ### Search
 
-![Landing Page](https://drive.google.com/uc?id=1p6UCpu7u1-T7-bM3fEtUreK9X09v3fJi)
+![Search](/public/images/search.png)
 
 
 ## Available Scripts
